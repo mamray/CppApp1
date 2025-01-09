@@ -1,5 +1,6 @@
 ﻿#include "Order.h"
 
+//Order class implementation
 Order::Order()
 {
     this->Price = 0;
